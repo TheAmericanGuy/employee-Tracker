@@ -74,7 +74,7 @@ The database structure includes three tables:
 
 ## 📸 Preview
 
-Here is a video explaining the usage: 
+Here is a video explaining the usage: https://youtu.be/X75lii3VBD8
 
 ## 🚧 Future Enhancements
 - Add the ability to delete departments, roles, and employees.
