@@ -32,7 +32,7 @@
 ## 📦 Installation
 
 ### 1. Clone the Repository
-- ```bash
+- bash
 - git clone <repository-url>
 - cd employee-tracker
 
